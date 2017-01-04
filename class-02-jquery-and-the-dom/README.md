@@ -1,24 +1,39 @@
-# Class 2 - jQuery and the DOM
+# Class 2 - jQuery and Events
 
 ####Announcements
 
-- Sam will be in a meeting from 4:00-5:00 this afternoon.
+- *Sam will be in meetings from 12:30-1:30 and 4:00-5:00 this afternoon.*
 
 ## Today's Plan
 
-- Code Review (Yana & Alex)
-- [Agile + MVC slides](https://www.icloud.com/keynote/000Uuh6ukOlH8Z_Mo53wp8fmg#Code_301_-_Class_1_Slides_Agile_%26_MVC)
+- Standups!
+- Code Review (Brian W and Jeff)
 
 `break`
 
-- [jQuery and the DOM slides](https://www.icloud.com/keynote/000lkj_JepVjXS9izEO8qq0Dg#Code_301_-_Class_1_Dom_-_jQuery)
-- Duckett JS textbook: pp.293-325
-- jQuery Cheat sheet: http://oscarotero.com/jquery/
-- jQuery "Basics" course: https://teamtreehouse.com/library/jquery-basics
-- jQuery: Store it locally or use a CDN?
+- [jQuery and Events slides](https://www.icloud.com/keynote/000ehQ-r6uLxZWMsRU0BNZP2A#Code_301_-_Class_2_Slides)
+- Duckett JS textbook: pp.326-366
+- [jQuery Cheat sheet](http://oscarotero.com/jquery/) - look at .on()
+
 
 `break`
 
-- Review of today's lab and portfolio assignments
-	- How the lab code works
-	- Portfolio: daily workflow
+- Portfolio: Where should we be by now?
+- Lab
+	- Study the starter code! Especially **articleView.js**!
+	- Here's some things you *might could maybe* need today... you should look at the docs in the [jQuery Cheat sheet](http://oscarotero.com/jquery/) to see how they work:
+		- .animate() [with some **scrollTop** action!]
+		- .append()
+		- .attr()
+		- .click()
+		- .data()
+		- .each()
+		- .fadeIn()
+		- .find()
+		- .hide()
+		- .html()
+		- .not()
+		- .on()
+		- .parent()
+		- .text()
+		- .val()
