@@ -10,7 +10,7 @@ Neighborhood.prototype.toHtml = function() {
  // TODO: Complete this using Handlebars!!!
  var source = $('#neighborhood-template').html();
  var templateRender = Handlebars.compile(source);
- // var context = neighborhoodDataSet;
+ var context = neighborhoodDataSet;
  return templateRender(this);
 };
 
