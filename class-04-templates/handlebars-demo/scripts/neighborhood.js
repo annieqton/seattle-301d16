@@ -9,10 +9,9 @@ function Neighborhood (opts) {
 Neighborhood.prototype.toHtml = function() {
  // TODO: Complete this using Handlebars!!!
  var source = $('#neighborhood-template').html();
-var templateRender = Handlebars.compile(source);
-var context = neighborhoodDataSet;
-console.log('this is', this);
-return templateRender(this);
+ var templateRender = Handlebars.compile(source);
+ // var context = neighborhoodDataSet;
+ return templateRender(this);
 };
 
 neighborhoodDataSet.forEach(function(neighborhoodObject) {
