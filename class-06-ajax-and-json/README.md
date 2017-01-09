@@ -14,7 +14,7 @@
 
 `break`
 
-- Slides: [AJAX & JSON Overview](301d16-lecture/class-06-ajax-and-json/06-http-json-ajax.pdf)
+- Slides: [AJAX & JSON Overview](https://github.com/codefellows/seattle-301d16/blob/master/class-06-ajax-and-json/06-http-json-ajax.pdf)
 	- The HTTP Party
 	- JSON
 	- AJAX
