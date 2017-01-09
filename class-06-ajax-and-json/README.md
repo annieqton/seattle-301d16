@@ -10,7 +10,7 @@
 - Announcements
 - Quick review of student survey comments
 - Standups! (keep them fast today!)
-- Code Review (TBA)
+- Code Review (Anna & Jeremiah)
 
 `break`
 
