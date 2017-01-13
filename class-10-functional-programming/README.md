@@ -20,8 +20,7 @@
 - Basics of scoping review
 
 - [Closures](https://www.joezimjs.com/javascript/javascript-closures-and-the-module-pattern/)
-	- IIFE
-	- Encapsulation
+	- IIFEs & Encapsulation
 	- The Javascript Module Pattern
 
 [**Slides: Functional Programming!**](10-functional-programming.pdf)
