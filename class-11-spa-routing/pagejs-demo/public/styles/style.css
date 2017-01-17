@@ -1,3 +1,7 @@
 #contacts {
   display: none;
 }
+
+#content {
+  color: blue;
+}
