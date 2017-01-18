@@ -2,7 +2,7 @@ $.ajax({
   url: 'https://api.github.com/user/repos?type=owner',
   method: 'GET',
   headers: {
-    Authorization: 'token 8675309'
+    Authorization: 'token ' + githubToken
   }
 })
 .then(
