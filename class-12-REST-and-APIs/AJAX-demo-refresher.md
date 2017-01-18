@@ -72,7 +72,7 @@ $.get('https://pokeapi.co/api/v2/pookmun/42')
 .fail(function(err) { console.error(err) })
 ```
 
-If we add on a `$.then()` we can handle the success and failure cases in a single method (the callbacks are empty for the moment to simplify the way things look)...
+If we add on a **`$.then()`** we can handle the success and failure cases in a single method (the callbacks are empty for the moment to simplify the way things look)...
 
 ```
 $.get('https://pokeapi.co/api/v2/pokemon/42')
