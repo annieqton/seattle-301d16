@@ -2,7 +2,7 @@
 
 ####Overview
 
-*The focus of this class is on students understanding the concept of production deployments in conjunction with development and production environments.  Through the use of Heroku, you will guide students through the deployment process, configuration of environment variables, and general issues that can arise during the deployment phase of a project. Students should also understand development, production, and feature branches and how they are used in collaborative development.*
+*The focus of this class is on understanding the concept of production deployments in conjunction with development and production environments.  Through the use of Heroku, students will learn about the deployment process, configuration of environment variables, and general issues that can arise during the deployment phase of a project. Students should also understand development, production, and feature branches and how they are used in collaborative development.*
 
 - Announcements
 	- Project Week is coming!
@@ -47,7 +47,7 @@
 
 - Do not want to push it to GitHub!
 - How to make it accessible to a remote server yet still protected?
-- `npm i --save express-server-proxy`
+- `npm i --save express-request-proxy`
 
 **DEPLOYMENT DEMO**
 
