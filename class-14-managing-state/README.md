@@ -31,6 +31,8 @@
 
 **Middleware Demo**
 
+**Discuss the article on Google's research on teams**
+
 **Project Teams**
 
 `BREAK by 11:45 for the Lunch & Learn`
