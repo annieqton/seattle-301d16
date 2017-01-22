@@ -9,10 +9,11 @@
 So... what should we review today? Let's make a list!
 
 - Look at daily project requirements?
-- Play around with the adjacent api-sandbox
-- ?????
-- ?????
-- ?????
+- Go over how to create a GH token
+- Play around with the adjacent api-sandbox, including the middleware component
+- Go over the questions on the ungraded quiz
+- What the final portfolio should/could be like
+- Code review on Jeremiah's portfolio routing
 
 ## Project Teams
 
